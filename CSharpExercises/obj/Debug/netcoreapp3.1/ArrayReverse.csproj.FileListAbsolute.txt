@@ -1,0 +1,12 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.1\ArrayReverse.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.1\ArrayReverse.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.1\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.1\ArrayReverse.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.1\ArrayReverse.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.1\ArrayReverse.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.1\ArrayReverse.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.1\ArrayReverse.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.1\ArrayReverse.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.1\ArrayReverse.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.1\ArrayReverse.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.1\ArrayReverse.genruntimeconfig.cache

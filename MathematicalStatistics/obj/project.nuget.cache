@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFR7rorwByaxGN8DyfNIE7/DD7uC1yt0ExyLsN4PAfMCM2ynKLOsdoA4U/NTXFTW/6frPqWSTNw8URLvLIPAbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\MathematicalStatistics\\MathematicalStatistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

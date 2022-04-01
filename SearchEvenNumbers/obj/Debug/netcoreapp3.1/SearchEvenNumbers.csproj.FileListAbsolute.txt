@@ -1,0 +1,13 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\bin\Debug\netcoreapp3.1\SearchEvenNumbers.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\bin\Debug\netcoreapp3.1\SearchEvenNumbers.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\bin\Debug\netcoreapp3.1\SearchEvenNumbers.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\bin\Debug\netcoreapp3.1\SearchEvenNumbers.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\bin\Debug\netcoreapp3.1\SearchEvenNumbers.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\bin\Debug\netcoreapp3.1\SearchEvenNumbers.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\SearchEvenNumbers\obj\Debug\netcoreapp3.1\SearchEvenNumbers.genruntimeconfig.cache

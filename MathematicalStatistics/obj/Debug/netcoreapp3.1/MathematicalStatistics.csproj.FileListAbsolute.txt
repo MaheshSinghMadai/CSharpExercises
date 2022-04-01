@@ -1,0 +1,13 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\bin\Debug\netcoreapp3.1\MathematicalStatistics.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\bin\Debug\netcoreapp3.1\MathematicalStatistics.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\bin\Debug\netcoreapp3.1\MathematicalStatistics.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\bin\Debug\netcoreapp3.1\MathematicalStatistics.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\bin\Debug\netcoreapp3.1\MathematicalStatistics.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\bin\Debug\netcoreapp3.1\MathematicalStatistics.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MathematicalStatistics\obj\Debug\netcoreapp3.1\MathematicalStatistics.genruntimeconfig.cache
