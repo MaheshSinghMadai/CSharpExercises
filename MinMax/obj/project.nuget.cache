@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "scY/vlOvmQI6Uo77NqHNuzF1c2hnU5Kt2t5NTnvXWG37sZWrVA9LBPlt1pj3nwzpM8hG8m73SYs0vCvzSeKucA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\MinMax\\MinMax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

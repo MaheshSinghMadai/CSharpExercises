@@ -18,16 +18,17 @@ namespace DiagonalDifference
         public static int diagonalDifference(List<List<int>> arr)
         {
             int LeftToRightDiagonalSum = 0;
-            //int RightToLeftDiagonalSum = 0;
+            int RightToLeftDiagonalSum = 0;
 
             for(int i = 0; i < arr.Count(); i++)
             {
                 LeftToRightDiagonalSum += arr[i][i];
+                RightToLeftDiagonalSum += arr[i][arr.Count() - 1 - i];
             }
 
-            //int diagonalDifference = LeftToRightDiagonal - RightToLeftDiagonal;
+            int diagonalDifference = LeftToRightDiagonalSum - RightToLeftDiagonalSum;
 
-            return LeftToRightDiagonalSum;
+            return Math.Abs(diagonalDifference);
 
         }
 

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjLgvHU27w5IushdzTZ2RUXOse8QRqLsB712lw4+Dn6L9RwkkUgNHHyme47qUXx1mY+s83PT0OIf+Cq55kB2PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\PlusMinus\\PlusMinus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

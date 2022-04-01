@@ -1,0 +1,12 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\bin\Debug\netcoreapp3.1\Staircase.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\bin\Debug\netcoreapp3.1\Staircase.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\bin\Debug\netcoreapp3.1\Staircase.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\bin\Debug\netcoreapp3.1\Staircase.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\obj\Debug\netcoreapp3.1\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\obj\Debug\netcoreapp3.1\Staircase.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\obj\Debug\netcoreapp3.1\Staircase.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\Staircase\obj\Debug\netcoreapp3.1\Staircase.genruntimeconfig.cache
