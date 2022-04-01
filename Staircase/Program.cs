@@ -15,8 +15,7 @@ namespace Staircase
         {
             for (int i = 1; i <= n; i++)
             {
-
-                for (int k = n; k >= i; k--)
+                for (int k = n; k > i; k--)
                 {
                     Console.Write(" ");
                 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3Xn0I2VibbmHxqRMNGAXXv9+xMjh66K0c6GxzTwcqtRDTcHzsB6lKLlKVM3L4uX9Qw4cyS4iuh0EC6iI6ngAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\HourFormatConversion\\HourFormatConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

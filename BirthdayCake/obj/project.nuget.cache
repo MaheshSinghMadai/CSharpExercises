@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibXQMeAxHN3KeeQtkKQOq+8tT0SjQWv1NbJqRVV721XvufrlsfJ+Z+5gHY72NJpNvvUdG43lxN7QGmiESZm2aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\BirthdayCake\\BirthdayCake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

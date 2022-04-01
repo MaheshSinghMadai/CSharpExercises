@@ -1,0 +1,13 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\bin\Debug\netcoreapp3.1\MinMax.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\bin\Debug\netcoreapp3.1\MinMax.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\bin\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\bin\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\MinMax\obj\Debug\netcoreapp3.1\MinMax.genruntimeconfig.cache
