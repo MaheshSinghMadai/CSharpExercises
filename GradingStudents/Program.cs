@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
 
 namespace GradingStudents
 {
@@ -14,7 +16,27 @@ namespace GradingStudents
 
         public static List<int> gradingStudents(List<int> grades)
         {
-
+            List<int> result = new List<int>();
+            foreach (int grade in grades)
+            {
+                if (grade < 38)
+                {
+                    result.Add(grade);
+                }
+                else
+                {
+                    int nextMultipleOfFive = ((grade / 5) + 1) * 5;
+                    if (nextMultipleOfFive - grade < 3)
+                    {
+                        result.Add(nextMultipleOfFive);
+                    }
+                    else
+                    {
+                        result.Add(grade);
+                    }
+                }
+            }
+            return result;
         }
 
     }
