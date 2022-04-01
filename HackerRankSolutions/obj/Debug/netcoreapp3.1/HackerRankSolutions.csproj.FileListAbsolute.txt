@@ -1,0 +1,13 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\bin\Debug\netcoreapp3.1\HackerRankSolutions.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\bin\Debug\netcoreapp3.1\HackerRankSolutions.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\bin\Debug\netcoreapp3.1\HackerRankSolutions.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\bin\Debug\netcoreapp3.1\HackerRankSolutions.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\bin\Debug\netcoreapp3.1\HackerRankSolutions.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\bin\Debug\netcoreapp3.1\HackerRankSolutions.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.genruntimeconfig.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\HackerRankSolutions\obj\Debug\netcoreapp3.1\HackerRankSolutions.csprojAssemblyReference.cache

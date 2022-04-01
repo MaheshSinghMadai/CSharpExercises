@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jMeIqxWZTOUMZKTekCJVU44SIdOsKrcugtX8pv4JtsskLwpDTOYogjwaJ8592a7kcUqzdMNW5IeYQXzi9Q3+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\VeryBigSum\\VeryBigSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

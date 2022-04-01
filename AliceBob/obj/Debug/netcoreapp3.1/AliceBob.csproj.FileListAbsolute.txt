@@ -1,0 +1,12 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\bin\Debug\netcoreapp3.1\AliceBob.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\bin\Debug\netcoreapp3.1\AliceBob.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\bin\Debug\netcoreapp3.1\AliceBob.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\bin\Debug\netcoreapp3.1\AliceBob.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\bin\Debug\netcoreapp3.1\AliceBob.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\bin\Debug\netcoreapp3.1\AliceBob.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\obj\Debug\netcoreapp3.1\AliceBob.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\obj\Debug\netcoreapp3.1\AliceBob.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\obj\Debug\netcoreapp3.1\AliceBob.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\obj\Debug\netcoreapp3.1\AliceBob.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\obj\Debug\netcoreapp3.1\AliceBob.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\AliceBob\obj\Debug\netcoreapp3.1\AliceBob.genruntimeconfig.cache

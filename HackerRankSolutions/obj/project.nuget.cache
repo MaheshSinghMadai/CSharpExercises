@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ci+R5RuVtPREpWkx346f7jy8yzz0EToR5To173Vmhzi5AQ9f9iV0M/phD2K4/LokS/IdbHVcKoW4ZyfdkmBNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\HackerRankSolutions\\ArraySum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
