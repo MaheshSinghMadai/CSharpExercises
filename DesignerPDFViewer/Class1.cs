@@ -27,13 +27,13 @@ namespace DesignerPDFViewer
 
             for (int i = 0; i < n; i++)
             {
-
                 //take index value (in [0,25] ) each character of input string
                 int c = word[i] % 97;
 
                 //Add corresponding height of the integer index to list
                 list.Add(h[c]);
             }
+
             int area = list.Max() * n;
             return area;
         }
