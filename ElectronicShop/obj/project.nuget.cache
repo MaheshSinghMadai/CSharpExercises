@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "caSwllk/v2usBaGKYcYYXhFdlOXvk6ylVuIvUu27G2IZC0kNK04U3cdZFtIGyo8Ko4xmmd4a98yLyxM9q5slOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ElectronicShop\\ElectronicShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{23BD06AF-9051-4443-8CC7-5F2BD4883D01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicShop", "ElectronicShop\ElectronicShop.csproj", "{BCF7C52D-B140-49E5-895D-4CAF74FC8F68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7C52D-B140-49E5-895D-4CAF74FC8F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7C52D-B140-49E5-895D-4CAF74FC8F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7C52D-B140-49E5-895D-4CAF74FC8F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7C52D-B140-49E5-895D-4CAF74FC8F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
