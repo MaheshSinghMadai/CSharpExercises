@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEvenNumbers", "SearchEvenNumbers\SearchEvenNumbers.csproj", "{466970B4-6147-42EE-91D1-F4B1DD291D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalStatistics", "MathematicalStatistics\MathematicalStatistics.csproj", "{355CE235-C94A-4FE9-AD10-DE5767B6C284}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySum", "HackerRankSolutions\ArraySum.csproj", "{B3143EE1-6369-484F-8AC0-5CB9609D5C48}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliceBob", "AliceBob\AliceBob.csproj", "{36F20E13-0FA3-4DA7-9A33-46A25F1402DF}"
@@ -59,10 +57,6 @@ Global
 		{466970B4-6147-42EE-91D1-F4B1DD291D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{466970B4-6147-42EE-91D1-F4B1DD291D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{466970B4-6147-42EE-91D1-F4B1DD291D79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{355CE235-C94A-4FE9-AD10-DE5767B6C284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{355CE235-C94A-4FE9-AD10-DE5767B6C284}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{355CE235-C94A-4FE9-AD10-DE5767B6C284}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{355CE235-C94A-4FE9-AD10-DE5767B6C284}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B3143EE1-6369-484F-8AC0-5CB9609D5C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3143EE1-6369-484F-8AC0-5CB9609D5C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3143EE1-6369-484F-8AC0-5CB9609D5C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
