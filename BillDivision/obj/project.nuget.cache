@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJQCd7sJyuMdUqW4QJLvRUfrmeumc+UJuPWwJ+ZjTqQvzIL7DX5tYfhR3UIHl/AHbXENuwh6+Ot20mh9ESOQ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\BillDivision\\BillDivision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

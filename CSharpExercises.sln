@@ -3,33 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReverse", "CSharpExercises\ArrayReverse.csproj", "{26597350-A3A7-4648-8D3D-9AE3B899E777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayReverse", "CSharpExercises\ArrayReverse.csproj", "{26597350-A3A7-4648-8D3D-9AE3B899E777}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{EB4872D0-F842-4675-BEFF-78CF7DE59131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{EB4872D0-F842-4675-BEFF-78CF7DE59131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEvenNumbers", "SearchEvenNumbers\SearchEvenNumbers.csproj", "{466970B4-6147-42EE-91D1-F4B1DD291D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEvenNumbers", "SearchEvenNumbers\SearchEvenNumbers.csproj", "{466970B4-6147-42EE-91D1-F4B1DD291D79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalStatistics", "MathematicalStatistics\MathematicalStatistics.csproj", "{355CE235-C94A-4FE9-AD10-DE5767B6C284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySum", "HackerRankSolutions\ArraySum.csproj", "{B3143EE1-6369-484F-8AC0-5CB9609D5C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySum", "HackerRankSolutions\ArraySum.csproj", "{B3143EE1-6369-484F-8AC0-5CB9609D5C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliceBob", "AliceBob\AliceBob.csproj", "{36F20E13-0FA3-4DA7-9A33-46A25F1402DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliceBob", "AliceBob\AliceBob.csproj", "{36F20E13-0FA3-4DA7-9A33-46A25F1402DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{62F2BBE8-1432-4A59-B68A-525A378AB8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{62F2BBE8-1432-4A59-B68A-525A378AB8EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{450BB065-4DF4-428E-A2C8-98482AF1DCA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{450BB065-4DF4-428E-A2C8-98482AF1DCA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{EB893290-E025-4196-A5A4-9129F4F22244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{EB893290-E025-4196-A5A4-9129F4F22244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{00427F12-CA02-4424-AFAD-C31FA098B151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{00427F12-CA02-4424-AFAD-C31FA098B151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{4DEE6102-03B8-4B7D-8523-2C85419C7AD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMax", "MinMax\MinMax.csproj", "{4DEE6102-03B8-4B7D-8523-2C85419C7AD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCake", "BirthdayCake\BirthdayCake.csproj", "{6DCFD069-54EC-4253-A85B-45F185D12E0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCake", "BirthdayCake\BirthdayCake.csproj", "{6DCFD069-54EC-4253-A85B-45F185D12E0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourFormatConversion", "HourFormatConversion\HourFormatConversion.csproj", "{4EEAC5A0-6BFB-45E0-AF90-7FD98CBF0457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HourFormatConversion", "HourFormatConversion\HourFormatConversion.csproj", "{4EEAC5A0-6BFB-45E0-AF90-7FD98CBF0457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{991FDA29-BDC3-4AC2-B0EA-A38B30F104A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{991FDA29-BDC3-4AC2-B0EA-A38B30F104A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{23BD06AF-9051-4443-8CC7-5F2BD4883D01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{991FDA29-BDC3-4AC2-B0EA-A38B30F104A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{991FDA29-BDC3-4AC2-B0EA-A38B30F104A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{991FDA29-BDC3-4AC2-B0EA-A38B30F104A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BD06AF-9051-4443-8CC7-5F2BD4883D01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
