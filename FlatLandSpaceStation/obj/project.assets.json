@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\FlatLandSpaceStation\\FlatLandSpaceStation.csproj",
-      "projectName": "FlatLandSpaceStation",
-      "projectPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\FlatLandSpaceStation\\FlatLandSpaceStation.csproj",
+      "projectUniqueName": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\FlatLandSpaceStation\\HurdleRace.csproj",
+      "projectName": "HurdleRace",
+      "projectPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\FlatLandSpaceStation\\HurdleRace.csproj",
       "packagesPath": "C:\\Users\\Corion\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\FlatLandSpaceStation\\obj\\",
       "projectStyle": "PackageReference",
