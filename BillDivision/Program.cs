@@ -19,19 +19,19 @@ namespace BillDivision
         public static void bonAppetit(List<int> bill, int k, int b)
         {
             int n = bill.Count();
-            int BActual = bill.Sum();
-            int Bcharged = 0;
+            int ActualTotalBill = bill.Sum();
 
-            for (int i = 0; i < n; i++)
+            //Calculating the bill to be paid by Anna
+            int ToBePaidByAnna = (ActualTotalBill - bill[k]) / 2;
+
+            if (b == ToBePaidByAnna)
             {
-                if (bill[i] == bill[k])
-                {
-                    Bcharged = BActual - bill[k];
-                }
+                Console.WriteLine("Bon Appetit");
             }
-            int difference = Bcharged - BActual;
-
-            Console.WriteLine(difference);
+            else
+            {
+                Console.WriteLine(b - ToBePaidByAnna);
+            }
 
         }
 
