@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillDivision", "BillDivisio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicShop", "ElectronicShop\ElectronicShop.csproj", "{BCF7C52D-B140-49E5-895D-4CAF74FC8F68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{31DFE1ED-926E-4DF7-B95B-41AAD8B925E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{31DFE1ED-926E-4DF7-B95B-41AAD8B925E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatLandSpaceStation", "FlatLandSpaceStation\FlatLandSpaceStation.csproj", "{516CAB04-36B9-44DE-83DA-6B71697ABCD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HurdleRace", "FlatLandSpaceStation\HurdleRace.csproj", "{516CAB04-36B9-44DE-83DA-6B71697ABCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerPDFViewer", "DesignerPDFViewer\DesignerPDFViewer.csproj", "{5CC189A7-F8CB-4B60-93A0-15F79F8A2F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{516CAB04-36B9-44DE-83DA-6B71697ABCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{516CAB04-36B9-44DE-83DA-6B71697ABCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{516CAB04-36B9-44DE-83DA-6B71697ABCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC189A7-F8CB-4B60-93A0-15F79F8A2F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC189A7-F8CB-4B60-93A0-15F79F8A2F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC189A7-F8CB-4B60-93A0-15F79F8A2F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC189A7-F8CB-4B60-93A0-15F79F8A2F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
