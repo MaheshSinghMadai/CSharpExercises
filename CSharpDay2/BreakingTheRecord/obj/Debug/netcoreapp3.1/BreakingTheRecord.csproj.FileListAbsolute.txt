@@ -1,0 +1,14 @@
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.csproj.AssemblyReference.cache
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.AssemblyInfoInputs.cache
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.AssemblyInfo.cs
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.csproj.CoreCompileInputs.cache
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\bin\Debug\netcoreapp3.1\BreakingTheRecord.exe
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\bin\Debug\netcoreapp3.1\BreakingTheRecord.deps.json
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\bin\Debug\netcoreapp3.1\BreakingTheRecord.runtimeconfig.json
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\bin\Debug\netcoreapp3.1\BreakingTheRecord.runtimeconfig.dev.json
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\bin\Debug\netcoreapp3.1\BreakingTheRecord.dll
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\bin\Debug\netcoreapp3.1\BreakingTheRecord.pdb
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.dll
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.pdb
+C:\Users\mahes\source\repos\HackerRankIntermediate\BreakingTheRecord\obj\Debug\netcoreapp3.1\BreakingTheRecord.genruntimeconfig.cache
