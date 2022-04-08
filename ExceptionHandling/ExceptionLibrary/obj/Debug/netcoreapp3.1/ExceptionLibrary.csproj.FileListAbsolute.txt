@@ -1,0 +1,9 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\bin\Debug\netcoreapp3.1\ExceptionLibrary.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\bin\Debug\netcoreapp3.1\ExceptionLibrary.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\bin\Debug\netcoreapp3.1\ExceptionLibrary.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\ExceptionHandling\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.pdb

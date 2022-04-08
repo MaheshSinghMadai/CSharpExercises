@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KjMV5ykcpm0bUWuzf1KgSueytJDR+NBOYJ0nF7lgObsgCKWWaD+KbzB23fmxWlU+jK0920kBG+OnOZndGwkteg==",
+  "dgSpecHash": "8y1d+F5KEQo7g/FCnTnSZDosYg5xJMUArx6v9o01U4vdpI3M6iDnDhkvBqk3WunvDeYRq76TRANaXud1ueeRlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
