@@ -5,33 +5,38 @@ namespace AsyncAwait
 {
     public class MakingTea
     {
-        public string MakeTea()
+        public async Task<string> MakeTeaAsync()
         {
-            var water = BoilWater();
+            var BoilingWater = BoilWaterAsync();
             Console.WriteLine("take the cups out");
             Console.WriteLine("put tea in cups");
+
+            var water = await BoilingWater;
 
             var tea = $"put {water} in cups";
 
             return tea;
         }
-        public string BoilWater()
+
+        public async Task<string> BoilWaterAsync()
         {
             Console.WriteLine("Start the kettle");
             Console.WriteLine("Waiting for the kettle");
-            Task.Delay(2000).GetAwaiter().GetResult();
+
+            await Task.Delay(2000);
             Console.WriteLine("Kettle finished boiling");
 
             return "water";
-
         }
     }
+
+
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             MakingTea mkt = new MakingTea();
-            mkt.MakeTea();
+            await mkt.MakeTeaAsync();
         }
     }
 }

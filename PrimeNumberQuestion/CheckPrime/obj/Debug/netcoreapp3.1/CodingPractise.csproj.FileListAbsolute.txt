@@ -1,0 +1,13 @@
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\bin\Debug\netcoreapp3.1\CodingPractise.exe
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\bin\Debug\netcoreapp3.1\CodingPractise.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\bin\Debug\netcoreapp3.1\CodingPractise.runtimeconfig.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\bin\Debug\netcoreapp3.1\CodingPractise.runtimeconfig.dev.json
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\bin\Debug\netcoreapp3.1\CodingPractise.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\bin\Debug\netcoreapp3.1\CodingPractise.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.dll
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.genruntimeconfig.cache
+C:\Users\Corion\source\repos\MaheshNBIT\CSharpExercises\CSharpExercises\CodingPractise\CodingPractise\obj\Debug\netcoreapp3.1\CodingPractise.csprojAssemblyReference.cache
