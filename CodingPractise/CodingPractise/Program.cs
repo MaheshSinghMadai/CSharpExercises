@@ -17,7 +17,6 @@ namespace CodingPractise
      
             CheckPrime cp = new CheckPrime();
             cp.checkPrimeLogic(numbers);
-
         }
     }
 }
