@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q3GmfpsAvL5C9XkSw/LbhQCkRn/ypWy0Cje+F4F6LR8MjpNSOcsKvOBAZSRNj0QjDI8xK/JMbdw7v0BV7wXw/A==",
+  "dgSpecHash": "aIhP2Aa0tsKUM/L/S5+Y6bIcxvSBdetpyLM/X8+g5aaz94NLdfBGorBI61DEWZk/R2aB8DE/OKE1ZgzDDYo7Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\GradingStudents\\GradingStudents.csproj",
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\GradingStudents\\GradingStudents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
   ],

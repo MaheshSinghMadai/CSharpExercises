@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pa8LLc3tDV8NzfXbS8RWa97V8crPK6JyLC0uGeGbZa+hdOvjDrvTqr1TTajk0JGf9fn7qea+T0SDlBken4GACg==",
+  "dgSpecHash": "NpXAC9B8wepP9z4mzM7BkuAjq5acF64RjAA0bSdsdzwns2sBm0YfV4VDrwdR8PR9t9qlM1Uq/jV+H42CsSWwbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\SearchEvenNumbers\\SearchEvenNumbers.csproj",
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\SearchEvenNumbers\\SearchEvenNumbers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
   ],

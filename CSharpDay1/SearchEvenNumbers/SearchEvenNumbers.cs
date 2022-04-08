@@ -6,7 +6,7 @@ namespace SearchEvenNumbers
     {
         public static void Main(string[] args)
         {
-            int total = 10;
+            int total = 5;
             int[] numbers = new int[total];
 
             for (int i = 0; i < total; i++)
@@ -22,5 +22,6 @@ namespace SearchEvenNumbers
                 }
             }
         }
+
     }
 }

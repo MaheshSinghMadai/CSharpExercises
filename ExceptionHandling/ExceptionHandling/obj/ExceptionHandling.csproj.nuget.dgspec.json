@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\SearchEvenNumbers\\SearchEvenNumbers.csproj": {}
+    "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\SearchEvenNumbers\\SearchEvenNumbers.csproj": {
+    "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\SearchEvenNumbers\\SearchEvenNumbers.csproj",
-        "projectName": "SearchEvenNumbers",
-        "projectPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\SearchEvenNumbers\\SearchEvenNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+        "projectName": "ExceptionHandling",
+        "projectPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
         "packagesPath": "C:\\Users\\Corion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\CSharpDay1\\SearchEvenNumbers\\obj\\",
+        "outputPath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CSharpExercises\\CSharpExercises\\ExceptionHandling\\ExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,12 +52,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.12, 3.1.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
