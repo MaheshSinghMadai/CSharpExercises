@@ -9,16 +9,14 @@ namespace CodingPractise
     {
         static void Main(string[] args)
         {      
-            List<double> primeList = new List<double>();
-
             Console.WriteLine("Enter the number count:");
             double n = Convert.ToInt32(Console.ReadLine());
 
             InputAndDisplay iad = new InputAndDisplay();
-            List<double> numss = iad.TakeInputAndDisplay(n);
+            List<double> numbers = iad.TakeInputAndDisplay(n);
      
             CheckPrime cp = new CheckPrime();
-            cp.checkPrimeLogic(numss);
+            cp.checkPrimeLogic(numbers);
 
         }
     }
